@@ -7,6 +7,14 @@ Laarzae Studios is a charity game company, donating to charities chosen by contr
   - 🌱 Currently working on the release for #Project-Mage, a 2D Pixel RPG game for PC
   - 📫 Reach our team via [LinkedIn](https://www.linkedin.com/in/laarzaestudios) or email: laarzaerstudios@gmail.com
 
+## Meet the Software Sages
+- Randy Egan
+- Michelle Hey
+- Tim Mitzen
+- Ben Soltz
+- Nick Watson
+- Tawnya Wessar
+
 # 🔧 Technology and Tools
 
 ![](https://img.shields.io/badge/OS-Windows-informational?style=flat&logo=linux&logoColor=black&color=082F60)    ![](https://img.shields.io/badge/Editor-VS_Code-informational?style=flat&logo=intellij-idea&logoColor=white&color=082F60)    
