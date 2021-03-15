@@ -1,7 +1,8 @@
 # Laarzae-Studios
 Laarzae Studios is a charity game company, donating to charities chosen by contributing developers
 
-![Laarzae-Studios-Banner](laarzae-banner-cover.png)
+![laarzae-banner-cover](https://user-images.githubusercontent.com/48541701/111183843-ba248700-8586-11eb-8ce8-6471e75b6bb9.png)
+
   - 🌱 Currently working on the release for #Project-Mage, a 2D Pixel RPG game for PC
   - 📫 Reach our team via [LinkedIn](https://www.linkedin.com/in/laarzaestudios) or email: laarzaerstudios@gmail.com
 
